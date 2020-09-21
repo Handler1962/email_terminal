@@ -27,7 +27,7 @@ function setHeader(msg = '') {
 	header = `
     <img align="left" src="config/network/` + serverDatabase.serverAddress + `/` + serverDatabase.iconName + `" width="100" height="100" style="padding: 0px 10px 20px 0px">
     <h2 style="letter-spacing: 4px">` + serverDatabase.serverName + `</h2>
-    <p>Logged in: ` + serverDatabase.serverAddress + ` ( ` + date_final + ` ) </p>
+    <p>Logged in: ` + serverDatabase.serverAddress + ` (` + date_final + `) </p>
     <p>Enter "help" for more information.</p>
     `
 	system.clear()
@@ -168,7 +168,9 @@ kernel.init = function(cmdLineContainer, outputContainer) {
 
 		$.get("config/network/localhost/manifest.json", function(configuration) {
 			serverDatabase = configuration
-			date_final = date.getDay() + '/' + date.getMonth() + '/' + serverDatabase.year
+			day = date.getDate()
+			month = date.getMonth()+1
+			date_final = serverDatabase.year + '.' + month + '.' + day
 			kernel.getDatabases()
 		})
 		.done(function(){
