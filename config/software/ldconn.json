@@ -1,0 +1,12 @@
+{
+    "filename": "ldconn",
+    "filetype": "exe",
+    "location": ["127.0.0.1", "localhost"],
+    "protection":false,
+
+    "delayed": 2000,
+    "message": ["Locking down connection...",
+        "Connection Secured and Locked.",
+        "Encryption: SHA-512","For security purposes, must close Terminal to End Session"
+    ]
+}
