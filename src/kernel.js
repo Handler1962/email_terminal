@@ -12,9 +12,9 @@ function debugObject(obj) {
 
 /**
  * Set Header and Prompt informations.
- * 
+ *
  * This function is useful to avoid code repetition.
- * 
+ *
  * @param {String} msg A message to be showed when done
  */
 function setHeader(msg = '') {
@@ -37,7 +37,7 @@ function setHeader(msg = '') {
 
 /**
  * Cross-browser impl to get document's height.
- * 
+ *
  * This function is necessary to auto-scroll to the end of page after each terminal command.
  */
 function getDocHeight_() {
@@ -51,7 +51,7 @@ function getDocHeight_() {
 
 /**
  * Scroll to bottom and clear the input value for a new line.
- * 
+ *
  * @param {Object} object The Input.cmdline right of the div.prompt
  */
 function newLine(object = cmdLine_) {
@@ -61,9 +61,9 @@ function newLine(object = cmdLine_) {
 
 /**
  * A function to padronize every output/return as a terminal print/echo function.
- * 
+ *
  * The output function now can handle both String and Array objects.
- * 
+ *
  * @param {String} data The string to be returned as a print in terminal
  * @param {Object} data The array to be returned as a print in terminal
  */
@@ -95,14 +95,14 @@ function output(data) {
 
 /**
  * The Kernel will handle all software (system calls).
- * 
+ *
  * The app name will be checked first if it exists as a system 'native' command.
  * If it doesn't, it will look for a custom software defined at software.json.
- * 
+ *
  * You can define commands with filetypes by naming the function as command_type.
  * The kernel will handle every `.` as a `_` when looking for the correct software.
  * i.e. the `bar_exe` function needs to be called as the `bar.exe` command in the Terminal.
- * 
+ *
  * @param {String} app The app name
  * @param {Array} args A list of Strings as args
  */
@@ -121,7 +121,7 @@ var kernel = function(app, args) {
 
 /**
  * Recover the correct databases for the current server.
- * 
+ *
  * Some functions like `system.telnet()` needs to rewrite the databases variables.
  */
 kernel.getDatabases = function() {
@@ -146,9 +146,9 @@ kernel.getDatabases = function() {
 
 /**
  * This will initialize the kernel function.
- * 
+ *
  * It will define the help functions, set some important variables and connect the databases.
- * 
+ *
  * @param {Object} cmdLineContainer The Input.cmdline right of the div.prompt
  * @param {Object} outputContainer The output element inside the div#container
  */
@@ -179,7 +179,7 @@ kernel.init = function(cmdLineContainer, outputContainer) {
 
 /**
  * Internal command functions.
- * 
+ *
  * This is where the internal commands are located.
  * This should have every non-custom software command functions.
  */
@@ -329,7 +329,7 @@ var system = {
 			})
 			if (!userFound)
 				return reject(new UsernameIsEmptyError)
-			
+
 			resolve(setHeader('Login successful'))
 		})
 
@@ -411,7 +411,7 @@ var system = {
 
 			if (args == serverDatabase.serverAddress)
 				return reject(new AddressDuplicatedError(args))
-			
+
 			$.get('config/network/' + args + '/manifest.json', function(serverInfo) {
 				logged = false
 				serverDatabase = serverInfo
@@ -429,9 +429,9 @@ var system = {
 
 /**
  * The custom software caller.
- * 
+ *
  * This will look for custom softwares installed at the `software` folder.
- * 
+ *
  * @param {String} app The software name
  * @param {String} args Args to be handle if any
  */
@@ -449,10 +449,10 @@ var software = function(app, args) {
 					(!softwareInfo.protection || softwareInfo.protection.includes(userDatabase.userId))
 				)
 					resolve(softwareInfo.message)
-				
+
 				else
 					reject(new CommandNotFoundError(app))
-				
+
 			})
 			.fail(function() {
 				reject(new CommandNotFoundError(app))
