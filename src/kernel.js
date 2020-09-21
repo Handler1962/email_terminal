@@ -157,6 +157,7 @@ kernel.init = function(cmdLineContainer, outputContainer) {
 		cmdLine_ = document.querySelector(cmdLineContainer)
 		output_ = document.querySelector(outputContainer)
 		date = new Date()
+		date.setFullYear(2003)
 
 		CMDS_ = [
 			'clear', 'date', 'echo', 'help', 'login', 'mail', 'read', 'ping', 'telnet'
