@@ -1,8 +1,44 @@
 [
     {
         "from": "admin",
-        "to": ["8A73B5", "user"],
+        "to": ["8A73B5", "user", "cornwell", "kamaroff"],
         "title": "Maintenance in all servers",
         "body": "This message is for all divisions of the bureau.  Starting today, the servers may suffer instability due to the latest maintenance mesures.    admin"
+    },
+    {
+        "from": "memoserver-1",
+        "to": ["cornwell", "kamaroff"],
+        "title": "flying and firearms",
+        "body": "MEMO 2003-09-20-1546  TO All Field Agents  CLASSIFICATION Unclassified  SUBJECT Flying with firearms   MESSAGE Reminder from our friends at Homeland Security that if you are planning on flying with a firearm, it must be declared at check-in and you must provide both your bureau identification and the contact information of your supervisor.  Checked firearms must be unloaded and secured inside a locked container. All ammunition stored in OEM packages. Only sidearms are permitted in the cabin, and must be secured on the person in a concealed holster. Ammunition in the cabin must also be kept on your person in OEM packages, magazines or speedloaders. Loose cartridges are prohibited.  Any questions, contact your unit supervisor or supply coordinator."
+    },
+    {
+        "from": "johnson",
+        "to": ["cornwell"],
+        "title": "re: Joint Task Force",
+        "body": "If I hear one more excuse about not getting your work done due to this fucking task force, I'm transferring you to root out terrorism in Guam.  The operation is restricted, so they can't even tell me where you have been or when you were expected to return. This had better not cut into your closure rate!  -J"
+    },
+    {
+        "from": "grath",
+        "to": ["cornwell"],
+        "title": "update",
+        "body": "Just a quick follow up to last Friday's conversation. WE FUCKING GOT HIM. Thanks for your testimony, and telling the right truth. We can't send him to gitmo, but should be an easy 20 years in fedpen.  Cheers.  G"
+    },
+    {
+        "from": "renolds",
+        "to": ["kamaroff"],
+        "title": "test results",
+        "body": "Finished with those tissue samples, swing by the lab if you want the samples back. Sequencing should be done by the time you are back.  p.s. next time warn me they are that nasty, even I have my limits."
+    },
+    {
+        "from": "ortiz",
+        "to": ["kamaroff"],
+        "title": "re: Joint Task Force",
+        "body": "Lucky for you, the boss sees you as a feather his cap, even if you're a pain in my ass. He loves bragging that his team was selected to participate in that join task force. But fuck me, it's restricted so they can't even tell me where you keep being sent or when you'll be back. Do me a favor and let me know ASAP if you get another request. We had to scramble last time, and I wouldn't mind the credit for loaning out our \"best and brightest\". And congrats.   Sincerely,  Ortiz"
+    },
+    {
+        "from": "ortiz",
+        "to": ["kamaroff"],
+        "title": "re: Expenses",
+        "body": "WTF, the these expenses are hitting my budget? Get this shit sorted out with accounting. -O"
     }
 ]
