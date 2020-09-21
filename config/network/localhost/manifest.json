@@ -1,15 +1,15 @@
 {
-    "year": "2377",
+    "year": "2003",
     "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
+    "serverName": "Node 13LC Intranet",
     "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "terminalID": "13LC",
     "defaultUser": {
         "userId": "user",
         "password": "",
         "userName": "anonymous"
     },
     "randomSeed": true,
-    
+
     "latestKernel": true
 }
