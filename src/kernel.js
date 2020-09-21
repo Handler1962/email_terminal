@@ -86,16 +86,12 @@ function output(data) {
 /**
  * Isn't working as needed
  * Needs to work with output() to output things one at time (delayed software message)
- * 
- * @param {Number} milliseconds 
+ *
+ * @param {Number} milliseconds
  */
-function sleep(milliseconds) {
-	const date = Date.now()
-	let currentDate = null
-	do {
-		currentDate = Date.now()
-	} while (currentDate - date < milliseconds)
-}
+ function sleep(ms) {
+   return new Promise(resolve => setTimeout(resolve, ms));
+ }
 
 /**
  * The Kernel will handle all software (system calls).
