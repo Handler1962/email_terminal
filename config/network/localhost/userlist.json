@@ -13,7 +13,7 @@
 
     {
         "userId": "admin",
-        "password": "admin",
+        "password": "nomoresecrets",
         "userName": "root"
     },
 
@@ -21,5 +21,31 @@
         "userId": "n",
         "password": "n",
         "userName": "debug"
+    },
+
+    {
+        "userId": "13lc00",
+        "password": "sameclaygen127",
+        "userName": "Lilith"
+    },
+    {
+        "userId": "13lc01",
+        "password": "l",
+        "userName": "Leah"
+    },
+    {
+        "userId": "13lc02",
+        "password": "l",
+        "userName": "Lucas"
+    },
+    {
+        "userId": "13lc03",
+        "password": "l",
+        "userName": "Lois"
+    },
+    {
+        "userId": "13lc04",
+        "password": "l",
+        "userName": "Lasea"
     }
 ]

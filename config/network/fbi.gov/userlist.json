@@ -3,5 +3,15 @@
         "userId": "8A73B5",
         "password": "trustno1",
         "userName": "Mulder, Fox"
+    },
+    {
+        "userId": "cornwell",
+        "password": "strangerousliason",
+        "userName": "Cornwell, L"
+    },
+    {
+        "userId": "kamaroff",
+        "password": "mindismedicine",
+        "userName": "Kamaroff, L"
     }
 ]
