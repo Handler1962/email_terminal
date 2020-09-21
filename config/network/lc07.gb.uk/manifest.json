@@ -1,0 +1,14 @@
+{
+    "serverAddress": "lc07.gb.uk",
+    "serverName": "lc07-gb",
+    "iconName": "icon.png",
+    "terminalID": "gb",
+    "defaultUser": {
+        "userId": "user",
+        "password": "",
+        "userName": "anon"
+    },
+    "randomSeed": false,
+
+    "latestKernel": true
+}
