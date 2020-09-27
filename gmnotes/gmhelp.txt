@@ -1,0 +1,38 @@
+In order to host locally, for testing and debug, may need to open a console and run the following command:
+
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
+
+This allows execution of scripts, for this window only. Permission revoked when window closed.
+
+-----
+Agent Logins:
+13lc00 Handler - codename LILITH (not a player)
+13lc01 Cornwell
+13lc02 Kamaroff - LESTER 12346
+13lc03 Kurtz
+13lc04 McMurtry
+13lc05 Palmer - LAUREL Rpu*887!
+13lc06 Schell
+
+-----
+About the Logins:
+Reasoning 13 = 13th iteration of L Cell, with agent id number. 00 always is the handler login
+0 prefix = agents
+1 prefix = friendly (adjust login as necessary)
+
+-----
+Other Users:
+alpha = a-cell
+style notes: always uses ∆G instead of dg
+
+lima zero = l cell handler presumably part of another cell
+style notes: uses DG instead of ∆G when shortening Delta Green
+
+Year set (in kernel.js) to 2003, which is used with the "Date" command. The year listed in the server manifest only affects the date shown on login. Dunno why it was set up like that.
+
+-----
+Other Notes:
+Since the agents are part of L-Cell, Nigerian prince scam email references lima Peru. Some references:
+
+https://en.wikipedia.org/wiki/List_of_tallest_buildings_in_Peru
+Torre Chocavento built in 2001
