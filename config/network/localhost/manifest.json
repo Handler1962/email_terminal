@@ -1,15 +1,15 @@
 {
     "year": "2003",
     "serverAddress": "localhost",
-    "serverName": "Node 13LC Intranet",
+    "serverName": "localhost intranet",
     "iconName": "Moon-icon.png",
-    "terminalID": "13LC",
+    "terminalID": "localhost",
     "defaultUser": {
-        "userId": "user",
+        "userId": "defaultuser",
         "password": "",
-        "userName": "anonymous"
+        "userName": "defaultuser"
     },
-    "randomSeed": true,
+    "randomSeed": false,
 
     "latestKernel": true
 }
