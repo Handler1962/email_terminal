@@ -1,0 +1,14 @@
+{
+    "serverAddress": "mail.stanford.edu",
+    "serverName": "Stanford University CardinalMail",
+    "iconName": "seal.gif",
+    "terminalID": "mail.stanford",
+    "defaultUser": {
+        "userId": "sign-in",
+        "password": "",
+        "userName": "sign-in"
+    },
+    "randomSeed": false,
+
+    "latestKernel": true
+}
