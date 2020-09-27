@@ -2,7 +2,7 @@
     "serverAddress": "lc07.gb.uk",
     "serverName": "lc07-gb",
     "iconName": "icon.png",
-    "terminalID": "gb",
+    "terminalID": "lc07-gb",
     "defaultUser": {
         "userId": "user",
         "password": "",
