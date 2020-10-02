@@ -1,25 +1,25 @@
 [
     {
         "from": "admin",
-        "to": ["8A73B5", "user", "cornwell", "kamarofft"],
+        "to": ["8A73B5", "user", "cornwellb", "kamarofft"],
         "title": "Maintenance in all servers",
         "body": "This message is for all divisions of the bureau.  Starting today, the servers may suffer instability due to the latest maintenance mesures.    admin"
     },
     {
         "from": "memoserver-1",
-        "to": ["cornwell", "kamarofft"],
+        "to": ["cornwellb", "kamarofft"],
         "title": "flying and firearms",
         "body": "MEMO 2003-09-20-1546  TO All Field Agents  CLASSIFICATION Unclassified  SUBJECT Flying with firearms   MESSAGE Reminder from our friends at Homeland Security that if you are planning on flying with a firearm, it must be declared at check-in and you must provide both your bureau identification and the contact information of your supervisor.  Checked firearms must be unloaded and secured inside a locked container. All ammunition stored in OEM packages. Only sidearms are permitted in the cabin, and must be secured on the person in a concealed holster. Ammunition in the cabin must also be kept on your person in OEM packages, magazines or speedloaders. Loose cartridges are prohibited.  Any questions, contact your unit supervisor or supply coordinator."
     },
     {
         "from": "johnson",
-        "to": ["cornwell"],
+        "to": ["cornwellb"],
         "title": "re: Joint Task Force",
         "body": "If I hear one more excuse about not getting your work done due to this fucking task force, I'm transferring you to root out terrorism in Guam.  The operation is restricted, so they can't even tell me where you have been or when you were expected to return. This had better not cut into your closure rate!  -J"
     },
     {
         "from": "grath",
-        "to": ["cornwell"],
+        "to": ["cornwellb"],
         "title": "update",
         "body": "Just a quick follow up to last Friday's conversation. WE FUCKING GOT HIM. Thanks for your testimony, and telling the right truth. We can't send him to gitmo, but should be an easy 20 years in fedpen.  Cheers.  G"
     },
@@ -37,13 +37,13 @@
     },
     {
         "from": "lilith&amp;associates",
-        "to": ["kamarofft"],
+        "to": ["kamarofft", "cornwellb"],
         "title": "your assistance is requested & a night at the opera",
         "body": "Lilith and Associates.  Solicitors and Advocates.  5th floor, Torre Chocavento.  Peru.  Dear A. [[surname]],  I am Mr. paul lilith, a Lawyer by profession. I am the personal attorney to Mr. [[surname]], a national of your country, who used to work with Lima Cellular Development Group in Peru, herein after shall be referred to as my client.  On the 21 st of April 2001, my client, his wife and their onlye child were involved in a car accident along Panamerica Norte express road. All occupants of the vehicle unfortunately lost there lives.  Since then I have made several enquiries to your embassy to locate any of my clients extended relatives. This has proved unsuccessful. I came to know about you through an enquiry I was making in the internet, and I found out you shared the same surname with my client, which is why I have decided to contact you, in order to assist in repatriating the money and property left behind by my client before they get confiscated or declared unserviceable by the bank.  Particularly, in a local commercial bank here where the deceased had an account valued at about US$ 10.8 Million Dollars, has issued me a notice to provide the next of kin or have the account confisticated by oct 8th.  Since i have been unsuccessful in locating the relatives for over 2 years now I seek your consent to present you as the next of kin of the deceased since you have the same last name so that the proceeds of this account valued at US$10.8 Million Dollars can be paid to you and then you and me can share the money, on the ratio of 50% for me, and 50% for you.  I have all necessary legal documents that can be used to back up any claim we may make. All I require is your honest co-operation to enable us see this business through. I guarantee that this will be executed under a legitimate arrangement that will protect you from any breach of the law.  As a token of my goodwill, please see my followup message with details for a night at the opera, expenses paid by my firm.  Please get in touch with me to discuss further details of this transaction by email or by using telnet to access our secure message server lc07.gb.uk.  Best regards,  Mr. paul lilith."
       },
       {
           "from": "operaoffers@protonmail.com",
-          "to": ["kamarofft"],
+          "to": ["kamarofft", "cornwellb"],
           "title": "Your night at the opera for 2003.10.08",
           "body": "You are cordially invited to attend the Sacramento Opera on 2003.10.08 as the guest of the Lima Cellular Development Group, for a limited production of the critically acclaimed \"Last Things Last\".  Tickets will be mailed to the provided address shortly.  ATTIRE: Please wear appropriate attire for a night at the opera.   TRANSPORTATION: You will need to arrange for your own transportation, but your host has arranged for reimbursement upon arrival at the event.  ACCOMODATIONS: Due to the length of the show, arrangements may be made for overnight accomodations. Please contact your host for details and plan accordingly."
       },
@@ -55,7 +55,7 @@
     },
     {
         "from": "operaoffers@protonmail.com",
-        "to": ["kamarofft"],
+        "to": ["kamarofft", "cornwellb"],
         "title": "CORRECTION: Your night at the opera for 2003.10.08",
         "body": "Dear A. [[surname]],  Due to a mix-up please pickup your tickets at the US Post Office on:  6929 Fair Oaks Blvd, Carmichael, CA 95608, United States at 1830 hours sharp"
     },

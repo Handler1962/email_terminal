@@ -5,13 +5,13 @@
         "userName": "Mulder, Fox"
     },
     {
-        "userId": "cornwell",
+        "userId": "cornwellb",
         "password": "strangerousliason",
-        "userName": "Cornwell, "
+        "userName": "cornwellb"
     },
     {
         "userId": "kamarofft",
         "password": "12346",
-        "userName": "Kamaroff, Thomas"
+        "userName": "kamarofft"
     }
 ]
