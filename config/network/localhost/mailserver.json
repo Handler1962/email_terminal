@@ -11,28 +11,46 @@
         "title": "wtf are you kidding me?",
         "body": "Are you kidding me? Why don't you change your password?  The system is entirely compromised until you correct it.  You're the sysadmin, if you're this dumb the corporation is at risk."
       },
-    {
-        "from": "13lc00",
-        "to": [],
-        "title": "your assistance is requested & a night at the opera",
-        "body": "Lilith and Associates.  Solicitors and Advocates.  5th floor, Torre Chocavento.  Peru.  Dear A. [[surname]],  I am Mr. paul lilith, a Lawyer by profession. I am the personal attorney to Mr. [[surname]], a national of your country, who used to work with Lima Cellular Development Group in Peru, herein after shall be referred to as my client.  On the 21st of April 2001, my client, his wife and their onlye child were involved in a car accident along Lagos - Ibadan express road. All occupants of the vehicle unfortunately lost there lives.  Since then I have made several enquiries to your embassy to locate any of my clients extended relatives. This has proved unsuccessful. I came to know about you through an enquiry I was making in the internet, and I found out you shared the same surname with my client, which is why I have decided to contact you, in order to assist in repatriating the money and property left behind by my client before they get confiscated or declared unserviceable by the bank.  Particularly, in a local commercial bank here where the deceased had an account valued at about US$ 10.8 Million Dollars, has issued me a notice to provide the next of kin or have the account confisticated by oct 8th.  Since i have been unsuccessful in locating the relatives for over 2 years now I seek your consent to present you as the next of kin of the deceased since you have the same last name so that the proceeds of this account valued at US$10.8 Million Dollars can be paid to you and then you and me can share the money, on the ratio of 50% for me, and 50% for you.  I have all necessary legal documents that can be used to back up any claim we may make. All I require is your honest co-operation to enable us see this business through. I guarantee that this will be executed under a legitimate arrangement that will protect you from any breach of the law.  As a token of my goodwill, please see my followup message with details for a night at the opera, expenses paid by my firm.  Please get in touch with me to discuss further details of this transaction by email or by using telnet to access our secure message server lc07.gb.uk.  Best regards,  Mr. paul lilith."
+      {
+          "from": "Shimkowski, Drew",
+          "to": ["Trekkie69"],
+          "title": "Are you good enough to be a skunkworks programmer?!?",
+          "body": "Are you skunkworks programmer?  I am familiar with your work, and we are looking for someone of your caliber to fill a position in a skunkworks project for a major player in the tech sector. All the freedom of a start-up, but the funding of the big boys. Let's meet for lunch, I'll have an NDA and can share a bit more at that time.  Sincerely,  Drew Shimkowski, MA  Shimkowski Recruiting"
       },
-    {
-        "from": "operaoffers@protonmail.com",
-        "to": [],
-        "title": "Your night at the opera for 2003.10.08",
-        "body": "You are cordially invited to attend the Sacramento Opera on 2003.10.08 as the guest of the Lima Cellular Development Group, for a limited production of the critically acclaimed \"Last Things Last\".  Tickets will be mailed to the provided address shortly.  ATTIRE: Please wear appropriate attire for a night at the opera.   TRANSPORTATION: You will need to arrange for your own transportation, but your host has arranged for reimbursement upon arrival at the event.  ACCOMODATIONS: Due to the length of the show, arrangements may be made for overnight accomodations. Please contact your host for details and plan accordingly."
-    },
-    {
-        "from": "operaoffers@protonmail.com",
-        "to": [],
-        "title": "CORRECTION: Your night at the opera for 2003.10.08",
-        "body": "Dear A. [[surname]],  Due to a mix-up please pickup your tickets at the US Post Office on:  6929 Fair Oaks Blvd, Carmichael, CA 95608, United States at 1830 hours sharp"
-    },
-    {
-        "from": "lilith&amp;associates",
-        "to": [],
-        "title": "Offer Followup",
-        "body": "You have a new message on our site, please login to view."
-    }
+      {
+          "from": "Korath, Sara",
+          "to": ["Trekkie69"],
+          "title": "#8752 QA review",
+          "body": "TICKET #8752 has passed QA1  COMMENTS: QA1 completed, could be more readable, Kurtz always seems to be playing code golf. Remember, we read code more than we ever write it - lines are free!  Regardless, looks good push to prod and further test."
+      },
+      {
+          "from": "lilith&amp;associates",
+          "to": ["Trekkie69"],
+          "title": "your assistance is requested & a night at the opera",
+          "body": "Lilith and Associates.  Solicitors and Advocates.  5th floor, Torre Chocavento.  Peru.  Dear A. [[surname]],  I am Mr. paul lilith, a Lawyer by profession. I am the personal attorney to Mr. [[surname]], a national of your country, who used to work with Lima Cellular Development Group in Peru, herein after shall be referred to as my client.  On the 21 st of April 2001, my client, his wife and their onlye child were involved in a car accident along Panamerica Norte express road. All occupants of the vehicle unfortunately lost there lives.  Since then I have made several enquiries to your embassy to locate any of my clients extended relatives. This has proved unsuccessful. I came to know about you through an enquiry I was making in the internet, and I found out you shared the same surname with my client, which is why I have decided to contact you, in order to assist in repatriating the money and property left behind by my client before they get confiscated or declared unserviceable by the bank.  Particularly, in a local commercial bank here where the deceased had an account valued at about US$ 10.8 Million Dollars, has issued me a notice to provide the next of kin or have the account confisticated by oct 8th.  Since i have been unsuccessful in locating the relatives for over 2 years now I seek your consent to present you as the next of kin of the deceased since you have the same last name so that the proceeds of this account valued at US$10.8 Million Dollars can be paid to you and then you and me can share the money, on the ratio of 50% for me, and 50% for you.  I have all necessary legal documents that can be used to back up any claim we may make. All I require is your honest co-operation to enable us see this business through. I guarantee that this will be executed under a legitimate arrangement that will protect you from any breach of the law.  As a token of my goodwill, please see my followup message with details for a night at the opera, expenses paid by my firm.  Please get in touch with me to discuss further details of this transaction by email or by using telnet to access our secure message server lc07.gb.uk.  Best regards,  Mr. paul lilith."
+        },
+        {
+            "from": "operaoffers@protonmail.com",
+            "to": ["Trekkie69"],
+            "title": "Your night at the opera for 2003.10.08",
+            "body": "You are cordially invited to attend the Sacramento Opera on 2003.10.08 as the guest of the Lima Cellular Development Group, for a limited production of the critically acclaimed \"Last Things Last\".  Tickets will be mailed to the provided address shortly.  ATTIRE: Please wear appropriate attire for a night at the opera.   TRANSPORTATION: You will need to arrange for your own transportation, but your host has arranged for reimbursement upon arrival at the event.  ACCOMODATIONS: Due to the length of the show, arrangements may be made for overnight accomodations. Please contact your host for details and plan accordingly."
+        },
+      {
+          "from": "durbano",
+          "to": ["Trekkie69"],
+          "title": "re: Billing",
+          "body": "yeah, get me the rest of those invoices asap, i'd like to get them through accounts before the end of the month, and you know how slow they are. thanks again for jumping back into this project - i thought we were done months ago. -o "
+      },
+      {
+          "from": "operaoffers@protonmail.com",
+          "to": ["Trekkie69"],
+          "title": "CORRECTION: Your night at the opera for 2003.10.08",
+          "body": "Dear A. [[surname]],  Due to a mix-up please pickup your tickets at the US Post Office on:  6929 Fair Oaks Blvd, Carmichael, CA 95608, United States at 1830 hours sharp"
+      },
+      {
+          "from": "lilith&amp;associates",
+          "to": [],
+          "title": "Offer Followup",
+          "body": "You have a new message on our site, please login to view."
+      }
 ]

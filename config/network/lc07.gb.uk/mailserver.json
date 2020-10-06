@@ -1,26 +1,32 @@
 [
     {
       "from": "Alpha",
-      "to": ["13lc01","13lc02","13lc03","13lc04","13lc05","13lc06","LESTER", "LAUREL", "LAWRY", "a"],
+      "to": ["a"],
+      "title": "PLACEHOLDER",
+      "body": "PUSH ALL MAIL MESSAGES DOWN ONE LEVEL."
+    },
+    {
+      "from": "Alpha",
+      "to": ["LESTER", "LAUREL", "LAWRY", "LUCY", "a"],
       "title": "GREEN BOX USE POLICY",
       "body": "STRICT GREEN BOX USE POLICY:  1) THE UNNATURAL IS UNCACHEABLE  2) ONLY CACHE THAT WHICH YOU ARE WILLING TO HAVE TURNED AGAINST YOU  3) ALL CELL MEMBERS ARE EQUALLY RESPONSIBLE FOR THE CONTENTS AND USE OF A GREEN BOX  4) FAILURE TO ABIDE BY THIS POLICY WILL BE MET IN THE SAME WAY AS OTHER ∆G POLICY VIOLATIONS. THIS IS YOUR ONLY WARNING.  NOTE: This policy applies to both physical and digital green boxes."
     },
     {
       "from": "Alpha",
-      "to": ["13lc01","13lc02","13lc03","13lc04","13lc05","13lc06","LESTER", "LAUREL", "LAWRY", "a"],
+      "to": ["LESTER", "LAUREL", "LAWRY", "LUCY", "a"],
       "title": "DISTRIBUTION OF CLASSIFIED INFORMATION",
       "body": "DISTRIBUTION OF CLASSIFIED INFORMATION  Delta Green functions as a covert program under the direction of the US government. Any and all information obtained during your involvement with the program is considered classified. No mention of the program or your role within it should be made to anyone but your handler. You are prohibited from establishing personal relations with other members of your cell and are to use ONLY the Delta Green assigned codenames. Consider this your only warning."
     },
     {
       "from": "Lima Zero",
-      "to": ["13lc01","13lc02","13lc03","13lc04","13lc05","13lc06","LESTER","LAUREL", "LAWRY", "a"],
+      "to": ["LESTER","LAUREL", "LAWRY", "LUCY", "a"],
       "title": "Night at the Opera",
-      "body": "Alright lima, before you start getting a big head over there just remember that you're not a full DG operative just yet. Maybe don't fuck up this up and you'll get there? Now, get your ass to Sacramento. I don't care what you have to tell your sweetie or whatever. You're to meet me tomorrow at the Carmichael post office on Fair Oaks at 1830 hrs. Don't be late. Oh and don't do something stupid like pack a shotgun or a bomb with your checked bag?? Welcome to the Opera, rook."
+      "body": "2020.10.07  Alright lima, before you start getting a big head over there just remember that you're not a full DG operative just yet. Maybe don't fuck up this up and you'll get there? Now, get your ass to Sacramento. I don't care what you have to tell your sweetie or whatever. You're to meet me tomorrow at the Carmichael post office on Fair Oaks at 1830 hrs. Don't be late. Oh and don't do something stupid like pack a shotgun or a bomb with your checked bag?? Welcome to the Opera, rook."
     },
 
     {
      "from":  "Alpha",
-     "to": ["13lc01","13lc02","13lc03","13lc04","13lc05","13lc06","LESTER","LAUREL", "LAWRY", "a"],
+     "to": ["LESTER","LAUREL", "LAWRY", "LUCY", "a"],
      "title": "re: CELL GENESIS",
      "body": "re: CELL GENESIS  Induction into the Delta Green Program has NOT been fully achieved. Current status of cell members are that of Delta Green PRE-OPERATIVE. Should the program deem you an indispensable asset then steps will be taken to conclude LIMA CELL GENESIS and proceed from TEMPORARY status to a RECOGNIZED ∆G cell."
     },
