@@ -1,22 +1,14 @@
 [
     {
-        "userId": "8A73B5",
-        "password": "trustno1",
-        "userName": "Mulder, Fox"
-    },
-
-    {
         "userId": "a",
         "password": "a",
         "userName": "Mulder, Fox"
     },
-
     {
         "userId": "admin",
         "password": "nomoresecrets",
         "userName": "root"
     },
-
     {
         "userId": "Trekkie69",
         "password": "El33tist",

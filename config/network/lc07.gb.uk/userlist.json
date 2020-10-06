@@ -1,28 +1,14 @@
 [
     {
-        "userId": "8A73B5",
-        "password": "trustno1",
-        "userName": "Mulder, Fox"
-    },
-
-    {
         "userId": "a",
         "password": "a",
         "userName": "Mulder, Fox"
     },
-
     {
         "userId": "admin",
         "password": "nomoresecrets",
         "userName": "root"
     },
-
-    {
-        "userId": "n",
-        "password": "n",
-        "userName": "debug"
-    },
-
     {
         "userId": "13lc00",
         "password": "sameclaygen127",
@@ -39,9 +25,9 @@
         "userName": "LESTER"
     },
     {
-        "userId": "13lc03",
-        "password": "l",
-        "userName": "Lois"
+        "userId": "LUCY",
+        "password": "El33tist",
+        "userName": "LUCY"
     },
     {
         "userId": "13lc04",
@@ -54,8 +40,8 @@
         "userName": "LAUREL"
     },
     {
-        "userId": "LUCY",
-        "password": "El33tist",
-        "userName": "LUCY"
+        "userId": "13lc06",
+        "password": "l",
+        "userName": "Lois"
     }
 ]
