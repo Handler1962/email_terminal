@@ -1,3 +1,6 @@
+-----
+Windows
+-----
 In order to host locally, for testing and debug, may need to open a console and run the following command:
 
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
@@ -5,11 +8,12 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 This allows execution of scripts, for this window only. Permission revoked when window closed.
 
 -----
-Agent Logins:
+Agent Login Structure:
+-----
 13lc00 Handler - codename LILITH (not a player)
-13lc01 Cornwell
+13lc01 Cornwell - LAWRY L_repseV
 13lc02 Kamaroff - LESTER 12346
-13lc03 Kurtz
+13lc03 Kurtz - LUCY El33tist
 13lc04 McMurtry
 13lc05 Palmer - LAUREL Rpu*887!
 13lc06 Schell

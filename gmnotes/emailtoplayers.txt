@@ -12,6 +12,15 @@ As part of your activation, you may need to access a secure messaging platform u
 Occupational emails
 ============
 -----
+Cornwell:
+-----
+
+NOTICE FOR USER cornwellb
+
+This message is for all divisions of the bureau.  Starting today, the servers may suffer instability due to the latest maintenance measures. Please log in directly using a telnet at mail.fbi.gov.
+
+
+-----
 Kamaroff:
 -----
 
@@ -30,6 +39,10 @@ Thank you for your patience and support as we roll out our new secure email serv
 
 -CardinalMail@SUIT
 
+
 -----
-Schell:
+Kurtz:
 -----
+YOU'VE GOT MAIL!
+
+Check your email - you, who wrote this script months ago.
