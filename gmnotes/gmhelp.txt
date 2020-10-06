@@ -7,6 +7,8 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 
 This allows execution of scripts, for this window only. Permission revoked when window closed.
 
+(also need to install Node.js)
+
 -----
 Agent Login Structure:
 -----
