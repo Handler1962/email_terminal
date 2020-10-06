@@ -5,9 +5,9 @@
     "iconName": "Moon-icon.png",
     "terminalID": "localhost",
     "defaultUser": {
-        "userId": "defaultuser",
+        "userId": "...",
         "password": "",
-        "userName": "defaultuser"
+        "userName": "..."
     },
     "randomSeed": false,
 
