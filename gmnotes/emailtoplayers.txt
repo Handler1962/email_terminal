@@ -1,6 +1,7 @@
 ============
 Sample Introduction Email
 ============
+You've got mail
 
 Dear <codename>,
 
@@ -9,40 +10,49 @@ You have new email(s) on your local server. Please visit https://git.io/JUuhB to
 As part of your activation, you may need to access a secure messaging platform using telnet. Usernames and passwords are case sensitive.
 
 ============
-Occupational emails
+Occupational Specific emails
 ============
 -----
 Cornwell:
 -----
+MAINTENANCE NOTICE for user: cornwellb
 
 NOTICE FOR USER cornwellb
 
 This message is for all divisions of the bureau.  Starting today, the servers may suffer instability due to the latest maintenance measures. Please log in directly using a telnet at mail.fbi.gov.
 
+For reference, terminal access can be found at: https://git.io/JUuhB and a reminder that usernames and passwords ARE case sensitive. 
 
 -----
 Kamaroff:
 -----
+MAINTENANCE NOTICE for user: kamarofft
 
 NOTICE FOR USER kamarofft
 
 This message is for all divisions of the bureau.  Starting today, the servers may suffer instability due to the latest maintenance measures. Please log in directly using a telnet at mail.fbi.gov.
 
+For reference, terminal access can be found at: https://git.io/JUuhB and a reminder that usernames and passwords ARE case sensitive. 
 
 -----
 Palmer:
 -----
 
-Dear Staff and Faculty,
+Mail Policy Update for user: gpalmer
+
+Dear Staff or Faculty Member,
 
 Thank you for your patience and support as we roll out our new secure email services. Starting today, we have disabled local email storage. Please log in directly using a telnet at mail.stanford.edu.
 
+For reference, terminal access can be found at: https://git.io/JUuhB and a reminder that usernames and passwords ARE case sensitive.   
+ 
 -CardinalMail@SUIT
-
 
 -----
 Kurtz:
 -----
-YOU'VE GOT MAIL!
+Trekkie69 - YOU'VE GOT MAIL!
 
 Check your email - you, who wrote this script months ago.
+
+Terminal access can be found at: https://git.io/JUuhB and a reminder that usernames and passwords ARE case sensitive on this system. Why you set up the system in this manner, who knows, but too late to change now.
